@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/17 19:13:31.000.673,=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/17 20:07:44.000.599,C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Calc.pas</Transaction>
+    <Transaction>2020/09/17 20:07:44.000.599,C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Calc.dfm</Transaction>
+    <Transaction>2020/09/17 20:08:15.000.109,C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\ProjectEngSoft.dproj</Transaction>
+    <Transaction>2020/09/18 15:02:46.000.159,C:\Users\Aluno\Documents\EngSoftCalculadoraIdade\ProjectEngSoft.dproj=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\ProjectEngSoft.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
